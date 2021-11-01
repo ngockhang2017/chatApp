@@ -22,3 +22,5 @@ s.connect((host_ip, port))
 
 print("the socket has successfully connected to google")
 print(host_ip)
+
+#file vua sua moi
